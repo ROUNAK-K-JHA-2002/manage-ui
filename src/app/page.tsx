@@ -9,7 +9,7 @@ import Footer from "./Components/Footer";
 
 export default function Home() {
   return (
-    <div className=" h-screen w-screen overflow-y-scroll relative">
+    <div className=" h-screen w-screen overflow-y-scroll overflow-x-hidden relative">
       <Image
         src={bgSimplifySectionTablet}
         className=" absolute -top-20 -right-10 -z-10 "

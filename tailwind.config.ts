@@ -11,6 +11,10 @@ export default {
       fontSize: {
         md: "0.875rem"
       },
+      screens: {
+        md: "968px"
+
+      },
       colors: {
         primary: {
           brightRed: 'hsl(12, 88%, 59%)',
