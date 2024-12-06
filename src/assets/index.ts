@@ -4,6 +4,7 @@ export { default as avatarRichard } from './Images/avatar-richard.png';
 export { default as avatarShanai } from './Images/avatar-shanai.png';
 export { default as bgSimplifySectionMobile } from './Images/bg-simplify-section-mobile.svg';
 export { default as bgSimplifySectionDesktop } from './Images/bg-simplify-section-desktop.svg';
+export { default as bgSimplifySectionTablet } from "./Images/bg-tablet-pattern.svg"
 export { default as favicon } from './Images/favicon-32x32.png';
 export { default as iconClose } from './Images/icon-close.svg';
 export { default as iconFacebook } from './Images/icon-facebook.svg';
